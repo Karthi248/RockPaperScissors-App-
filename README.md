@@ -16,4 +16,4 @@ A mobile Rock-Paper-Scissors game built using MIT App Inventor with live score t
 ## Built With
 - MIT App Inventor (block-based visual programming)
 
-RPS Screenshot.jpg
+![App Screenshot](RPS-Screenshot.jpg)
