@@ -11,7 +11,7 @@ A mobile Rock-Paper-Scissors game built using MIT App Inventor with live score t
 ## How to Open
 1. Go to MIT App Inventor
 2. Click Projects → Import project (.aia) from my computer
-3. Select the .aia file from this repo
+3. [Download RPS.aia here](../../raw/main/RPS.aia)
 
 ## Built With
 - MIT App Inventor (block-based visual programming)
